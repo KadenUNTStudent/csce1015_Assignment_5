@@ -1,3 +1,4 @@
+# Maintain codespace so I won't lose it part 1 (10/31)
 # let's go get some software that someone else wrote
 
 import luhn  
